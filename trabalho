@@ -1,0 +1,29 @@
+WHOIS (trecho relevante: nameservers, registrante, datas)
+Registrante (Owner):
+
+Nome: Everson Sousa
+
+E-mail: evs.link@hotmail.com
+
+Nameservers (Servidores DNS):
+
+ns1.dns-parking.com
+
+ns2.dns-parking.com
+
+Datas Importantes:
+
+Criação: 28/01/2022
+
+Última atualização: 30/01/2025
+
+Expiração: 28/01/2026
+
+Nameservers e IP(s) encontrados (com comando usado e saída)
+ns1.dns-parking.com	    162.159.26.99
+NS	ns2.dns-parking.com	  162.159.27.72
+
+WAF / Firewall (resultado do wafw00f)
+
+Nenhum Web Application Firewall (WAF) foi detectado pelo wafw00f
+
